@@ -1,0 +1,10 @@
+France|Paris
+Germany|Berlin
+Greece|Athens
+Hungary|Budapest
+Italy|Rome
+Japan|Tokyo
+Peru|Lima
+Portugal|Lisbon
+Romania|Bucharest
+Russia|Moscow
